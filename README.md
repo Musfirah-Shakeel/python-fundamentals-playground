@@ -24,4 +24,11 @@ To run any file, use the following command in the terminal:
 
 ```bash
 python filename.py
+
+## Author
+
+Musfirah Shakeel
+
 Thanks for visiting! 😊
+
+
