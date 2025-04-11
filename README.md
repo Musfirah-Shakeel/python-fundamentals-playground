@@ -18,17 +18,19 @@ It includes examples of:
 - `concatenation.py` – how to join/combine strings
 - `if_elif.py` – use of if elif condition
 
+
 ## How to Run
 
 To run any file, use the following command in the terminal:
 
 ```bash
 python filename.py
-
+```
 ## Author
-
 Musfirah Shakeel
+Beginner Python Learner
+[https://github.com/Musfirah-Shakeel]
 
-Thanks for visiting! 😊
+
 
 
